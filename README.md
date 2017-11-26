@@ -23,6 +23,14 @@ Siddharth Kshetrapal
 Topics: CSS, Web Performance, React, CSS in JS, Node, Testing  
 https://twitter.com/siddharthkp
 
+## Kolkata
+
+<img src="https://pbs.twimg.com/profile_images/815021165869731840/e4G2bNZX_400x400.jpg" height="70px" width="auto" align="left" />
+
+Angsuman Chakraborty  
+Topics: Java, Neural Networks, Deep Learning
+https://twitter.com/angsuman
+
 ## Mumbai
 
 <img src="https://pbs.twimg.com/profile_images/856209876732739585/rQcsMvCa_400x400.jpg" height="70px" width="auto" align="left" />
